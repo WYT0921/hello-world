@@ -12,7 +12,7 @@ int main()
 			break;
 		} 
 	} 
-		if(b==0)
+		if(b==0||a==0||a==1)
 		{
 			printf("%d²»ÊÇËØÊı",a);
 		}
